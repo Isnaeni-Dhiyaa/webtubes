@@ -5,5 +5,5 @@
 @endsection
 
 @section('content')
-<p>Biodata</p>
+<p>Halaman Biodata</p>
 @endsection('content')
